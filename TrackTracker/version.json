@@ -1,7 +1,7 @@
 {
-    "version": "1.0.2-beta.1",
-    "versionCode": 3,
-    "apkUrl": "https://dani3le7.github.io/TrackTracker/TrackTracker-1.0.2-beta.1.apk",
+    "version": "1.0.4-beta.1",
+    "versionCode": 4,
+    "apkUrl": "https://dani3le7.github.io/TrackTracker/TrackTracker-1.0.4-beta.1.apk",
     "changelog": [
         "Aggiunto il controllo manuale e automatico degli aggiornamenti.",
         "Aggiunti il download dell'APK e l'avvio della procedura di installazione.",
