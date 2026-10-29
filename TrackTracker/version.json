@@ -1,10 +1,16 @@
 {
-    "version": "1.0.4-beta.1",
-    "versionCode": 4,
-    "apkUrl": "https://dani3le7.github.io/TrackTracker/TrackTracker-1.0.4-beta.1.apk",
+    "version": "26.10.1",
+    "versionCode": 2005,
+    "apkUrls": {
+        "arm64-v8a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.1-v8a.apk",
+        "armeabi-v7a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.1-v7a.apk"
+    },
+    "apkVersionCodes": {
+        "arm64-v8a": 2005,
+        "armeabi-v7a": 1005
+    },
+    "forceUpdate": false,
     "changelog": [
-        "Aggiunto il controllo manuale e automatico degli aggiornamenti.",
-        "Aggiunti il download dell'APK e l'avvio della procedura di installazione.",
-        "Miglioramenti alla stabilità."
+        "Migliorata funzionalità di aggiornamento automatico."
     ]
 }
