@@ -1,6 +1,6 @@
 {
     "version": "1.0.4-beta.1",
-    "versionCode": 4,
+    "versionCode": 5,
     "apkUrl": "https://dani3le7.github.io/TrackTracker/TrackTracker-1.0.4-beta.1.apk",
     "changelog": [
         "Aggiunto il controllo manuale e automatico degli aggiornamenti.",
