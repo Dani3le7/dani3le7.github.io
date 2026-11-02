@@ -1,8 +1,8 @@
 {
-    "version": "26.10.2",
+    "version": "26.10.3",
     "apkUrls": {
-        "arm64-v8a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.2-v8a.apk",
-        "armeabi-v7a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.2-v7a.apk"
+        "arm64-v8a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.3-v8a.apk",
+        "armeabi-v7a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.3-v7a.apk"
     },
     "apkVersionCodes": {
         "arm64-v8a": 2006,
@@ -10,8 +10,7 @@
     },
     "forceUpdate": true,
     "changelog": [
-        "Migliorata funzionalità di aggiornamento automatico.",
-        "Corretto bug di validazione del form di creazione sessione.",
-        "Aggiunto tutorial per la creazione di una sessione."
+        "Aggiornato sistema di sincronizzazione cloud.",
+        "Corretti alcuni bug minori nella UI."
     ]
 }
