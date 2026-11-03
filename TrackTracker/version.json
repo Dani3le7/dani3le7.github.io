@@ -5,12 +5,12 @@
         "armeabi-v7a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.11.2-v7a.apk"
     },
     "apkVersionCodes": {
-        "arm64-v8a": 2008,
-        "armeabi-v7a": 1008
+        "arm64-v8a": 2009,
+        "armeabi-v7a": 1009
     },
     "forceUpdate": false,
     "changelog": [
-        "Aggiunta funzionalità di invalidazione giro",
+        "Aggiunta funzionalità di invalidazione giro.",
         "Fix minori."
     ]
 }
