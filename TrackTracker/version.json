@@ -11,7 +11,7 @@
     "forceUpdate": true,
     "changelog": [
         "Aggiunta funzionalità di invalidazione giro.",
-        "Migliorata la modalità di inserimento pressione gomme",
+        "Migliorata la modalità di inserimento pressione gomme.",
         "Fix minori."
     ]
 }
