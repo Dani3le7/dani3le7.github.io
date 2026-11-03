@@ -1,16 +1,16 @@
 {
-    "version": "26.10.3",
+    "version": "26.11.1",
     "apkUrls": {
-        "arm64-v8a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.3-v8a.apk",
-        "armeabi-v7a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.10.3-v7a.apk"
+        "arm64-v8a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.11.1-v8a.apk",
+        "armeabi-v7a": "https://dani3le7.github.io/TrackTracker/TrackTracker-26.11.1-v7a.apk"
     },
     "apkVersionCodes": {
-        "arm64-v8a": 2007,
-        "armeabi-v7a": 1007
+        "arm64-v8a": 2008,
+        "armeabi-v7a": 1008
     },
     "forceUpdate": false,
     "changelog": [
-        "Aggiornato sistema di sincronizzazione cloud.",
-        "Corretti alcuni bug minori nella UI."
+        "Aggiunta libreria circuiti.",
+        "Fix minori."
     ]
 }
